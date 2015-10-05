@@ -1,0 +1,356 @@
+2015-09-30 12:16:43 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:16:43 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:16:43 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:16:43 IST 2015]; root of context hierarchy
+2015-09-30 12:16:43 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:16:44 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:16:44 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:16:44 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:16:44 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:16:44 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:16:44 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:16:44 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce830400009, negotiated timeout = 40000
+2015-09-30 12:16:44 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:16:44 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:16:43 IST 2015]; root of context hierarchy
+2015-09-30 12:16:44 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:16:44 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:16:44 INFO  ZooKeeper:684 - Session: 0x1501ce830400009 closed
+2015-09-30 12:20:47 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:20:47 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:20:47 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:20:47 IST 2015]; root of context hierarchy
+2015-09-30 12:20:47 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:20:47 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:20:47 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:20:47 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:20:47 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:20:47 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:20:48 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:20:48 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce83040000a, negotiated timeout = 40000
+2015-09-30 12:20:48 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:20:49 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:20:47 IST 2015]; root of context hierarchy
+2015-09-30 12:20:49 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:20:49 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:20:49 INFO  ZooKeeper:684 - Session: 0x1501ce83040000a closed
+2015-09-30 12:22:20 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:22:20 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:22:20 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:22:20 IST 2015]; root of context hierarchy
+2015-09-30 12:22:20 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:22:20 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:22:20 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:22:20 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:22:21 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:22:21 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:22:21 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:22:21 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:22:21 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce83040000e, negotiated timeout = 40000
+2015-09-30 12:22:21 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:22:22 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:22:20 IST 2015]; root of context hierarchy
+2015-09-30 12:22:22 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:22:23 INFO  ZooKeeper:684 - Session: 0x1501ce83040000e closed
+2015-09-30 12:22:23 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:33:24 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:33:24 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:33:24 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:33:24 IST 2015]; root of context hierarchy
+2015-09-30 12:33:24 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:33:24 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:33:24 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:33:24 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:33:24 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:33:24 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:33:24 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:33:24 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce830400011, negotiated timeout = 40000
+2015-09-30 12:33:24 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:33:24 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:33:24 IST 2015]; root of context hierarchy
+2015-09-30 12:33:24 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:33:24 INFO  ZooKeeper:684 - Session: 0x1501ce830400011 closed
+2015-09-30 12:33:24 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:33:29 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:33:29 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:33:29 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:33:29 IST 2015]; root of context hierarchy
+2015-09-30 12:33:29 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:33:29 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:33:30 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:33:30 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:33:30 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:33:30 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:33:30 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:33:30 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce830400012, negotiated timeout = 40000
+2015-09-30 12:33:30 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:33:31 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:33:29 IST 2015]; root of context hierarchy
+2015-09-30 12:33:31 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:33:31 INFO  ZooKeeper:684 - Session: 0x1501ce830400012 closed
+2015-09-30 12:33:31 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:38:40 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:38:40 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:38:40 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:38:40 IST 2015]; root of context hierarchy
+2015-09-30 12:38:40 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:38:40 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:38:40 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:38:40 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:38:40 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:38:40 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:38:40 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:38:40 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce830400013, negotiated timeout = 40000
+2015-09-30 12:38:40 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:38:41 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:38:40 IST 2015]; root of context hierarchy
+2015-09-30 12:38:41 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:38:41 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:38:41 INFO  ZooKeeper:684 - Session: 0x1501ce830400013 closed
+2015-09-30 12:38:58 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:38:58 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:38:58 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:38:58 IST 2015]; root of context hierarchy
+2015-09-30 12:38:58 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:38:58 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:38:58 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:38:58 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:38:58 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:38:58 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:38:58 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:38:58 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce830400014, negotiated timeout = 40000
+2015-09-30 12:38:58 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:39:00 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:38:58 IST 2015]; root of context hierarchy
+2015-09-30 12:39:00 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:39:00 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:39:00 INFO  ZooKeeper:684 - Session: 0x1501ce830400014 closed
+2015-09-30 12:45:05 INFO  AnnotationConfigApplicationContext:573 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@20ad9418: startup date [Wed Sep 30 12:45:05 IST 2015]; root of context hierarchy
+2015-09-30 12:45:05 INFO  AutowiredAnnotationBeanPostProcessor:153 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:45:05 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:45:05 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:45:05 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@182decdb
+2015-09-30 12:45:05 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:45:05 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:45:05 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce830400017, negotiated timeout = 40000
+2015-09-30 12:45:05 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:45:07 INFO  AnnotationConfigApplicationContext:951 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@20ad9418: startup date [Wed Sep 30 12:45:05 IST 2015]; root of context hierarchy
+2015-09-30 12:45:07 INFO  ZooKeeper:684 - Session: 0x1501ce830400017 closed
+2015-09-30 12:45:07 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:47:09 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:47:09 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:47:09 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:47:09 IST 2015]; root of context hierarchy
+2015-09-30 12:47:09 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:47:09 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:47:09 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:47:09 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/service-autodiscovery/jax-rs-2.0-client
+2015-09-30 12:47:09 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:47:09 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:47:09 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:47:09 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce83040001d, negotiated timeout = 40000
+2015-09-30 12:47:09 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:47:11 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:47:09 IST 2015]; root of context hierarchy
+2015-09-30 12:47:11 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:47:11 INFO  ZooKeeper:684 - Session: 0x1501ce83040001d closed
+2015-09-30 12:47:11 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 12:59:03 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 12:59:03 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 12:59:03 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:59:03 IST 2015]; root of context hierarchy
+2015-09-30 12:59:03 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 12:59:03 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:59:03 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 12:59:03 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/aggregator/jax-rs-2.0-client
+2015-09-30 12:59:03 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 12:59:03 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 12:59:03 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 12:59:03 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce83040001e, negotiated timeout = 40000
+2015-09-30 12:59:03 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 12:59:05 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 12:59:03 IST 2015]; root of context hierarchy
+2015-09-30 12:59:05 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 12:59:05 INFO  ZooKeeper:684 - Session: 0x1501ce83040001e closed
+2015-09-30 12:59:05 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 13:02:13 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 13:02:13 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 13:02:13 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 13:02:13 IST 2015]; root of context hierarchy
+2015-09-30 13:02:14 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 13:02:14 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 13:02:14 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 13:02:14 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/aggregator/jax-rs-2.0-client
+2015-09-30 13:02:14 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 13:02:14 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 13:02:14 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 13:02:14 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce830400022, negotiated timeout = 40000
+2015-09-30 13:02:14 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 13:02:14 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 13:02:13 IST 2015]; root of context hierarchy
+2015-09-30 13:02:14 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 13:02:14 INFO  ZooKeeper:684 - Session: 0x1501ce830400022 closed
+2015-09-30 13:02:14 INFO  ClientCnxn:509 - EventThread shut down
+2015-09-30 13:02:52 INFO  ClassPathBeanDefinitionScanner:231 - JSR-250 'javax.annotation.ManagedBean' found and supported for component scanning
+2015-09-30 13:02:52 INFO  ClassPathBeanDefinitionScanner:239 - JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2015-09-30 13:02:52 INFO  AnnotationConfigApplicationContext:510 - Refreshing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 13:02:52 IST 2015]; root of context hierarchy
+2015-09-30 13:02:52 INFO  AutowiredAnnotationBeanPostProcessor:140 - JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2015-09-30 13:02:52 INFO  DefaultListableBeanFactory:596 - Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 13:02:52 INFO  CuratorFrameworkImpl:220 - Starting
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:zookeeper.version=3.4.5-1392090, built on 09/30/2012 17:52 GMT
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:host.name=197NODDTPRASHANT.KUMAR
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:java.version=1.8.0_51
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:java.vendor=Oracle Corporation
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:java.home=/usr/local/java/jdk1.8.0_51/jre
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:java.class.path=target/jax-rs-2.0-client-0.0.1-SNAPSHOT.one-jar.jar
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:java.library.path=/usr/java/packages/lib/amd64:/usr/lib64:/lib64:/lib:/usr/lib
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:java.io.tmpdir=/tmp
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:java.compiler=<NA>
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:os.name=Linux
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:os.arch=amd64
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:os.version=3.16.0-50-generic
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:user.name=prashant
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:user.home=/home/prashant
+2015-09-30 13:02:52 INFO  ZooKeeper:100 - Client environment:user.dir=/disk/workspace/aggregator/jax-rs-2.0-client
+2015-09-30 13:02:52 INFO  ZooKeeper:438 - Initiating client connection, connectString=localhost sessionTimeout=60000 watcher=com.netflix.curator.ConnectionState@3f8f9dd6
+2015-09-30 13:02:52 INFO  ClientCnxn:966 - Opening socket connection to server localhost/127.0.0.1:2181. Will not attempt to authenticate using SASL (unknown error)
+2015-09-30 13:02:53 INFO  ClientCnxn:849 - Socket connection established to localhost/127.0.0.1:2181, initiating session
+2015-09-30 13:02:53 INFO  ClientCnxn:1207 - Session establishment complete on server localhost/127.0.0.1:2181, sessionid = 0x1501ce830400025, negotiated timeout = 40000
+2015-09-30 13:02:53 INFO  ConnectionStateManager:156 - State change: CONNECTED
+2015-09-30 13:02:53 INFO  AnnotationConfigApplicationContext:1042 - Closing org.springframework.context.annotation.AnnotationConfigApplicationContext@31cefde0: startup date [Wed Sep 30 13:02:52 IST 2015]; root of context hierarchy
+2015-09-30 13:02:53 INFO  DefaultListableBeanFactory:444 - Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@22d8cfe0: defining beans [org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,clientConfig,org.springframework.context.annotation.ConfigurationClassPostProcessor.importAwareProcessor,discovery,curator]; root of factory hierarchy
+2015-09-30 13:02:53 INFO  ZooKeeper:684 - Session: 0x1501ce830400025 closed
+2015-09-30 13:02:53 INFO  ClientCnxn:509 - EventThread shut down
